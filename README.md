@@ -10,6 +10,8 @@ In this blog, I will perform individual analysis of states and then proceed comp
 
 The data set contains crime reports over the summer 2014 period. This data was loaded and analyzed. In the dataset there is some missing data, for example, the occured date is missing, in that case the crime date is assumed to be the report date. This assumption is important, though it will not change the findings.
 
+![Figure 1](https://raw.githubusercontent.com/kpenza/temp/master/figures/figure1.png "Figure 1")
+
 INSERT FIGURE 1
 
 The most common crime in the summer period is theft. Car prowl amounts to 19% of the reports or 6230 report of 32779 in the dataset. From figure1, the pattern that in seattle theft is very common, quickly emerged as 3 more occurring crimes are theft related and amount of 33.6%. 
@@ -26,7 +28,11 @@ Figure 3 shows the number of crimes per district/zone. The district with most cr
 
 The dataset for San Francisco covers the summer 2014 period. The data provided is strctured differently however it loaded and analysed.
 
+![Figure 4](https://raw.githubusercontent.com/kpenza/temp/master/figures/figure1.png "Figure 4")
+
 INSERT FIGURE 4
+
+https://raw.githubusercontent.com/kpenza/temp/master/figures/figure4.png
 
 The most common crime in the summer period is larceny and it amounts to 32.5% or 9446 of 28993 in the dataset. From figure3, the second most common criminal crime is assult that amounts to 9.9% of the total reports.
 
