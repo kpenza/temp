@@ -11,11 +11,11 @@ The data set contained crime reports over the summer 2014 period. This data was 
 
 ![Figure 1](https://raw.githubusercontent.com/kpenza/temp/master/figures/figure1.png "Figure 1")
 
-Figure 1 shows the occurance of the crime and the major cateogry of the crime. The "OTHER PROPERTY" category is a general category for other types of theft, such as building theft. The most common crime in the summer period is theft. Car prowl amounts to 19% of the total number of report. From this chart, it emerged that 3 more occurring crimes are theft related and amount of 33.6% of the total number of reports.
+Figure 1 shows the occurance of the crime and the major cateogry of the crime. The "OTHER PROPERTY" category is a general category for other types of theft, such as building theft. Car prowl is the most common crime and it amounts to 19% of the total number of report. From this chart, it emerges that the top three occurring crimes are theft related and they amount to 33.6% of the total number of reports.
 
 ## San Francisco
 
-The data set for San Francisco covers the summer 2014 period. The data provided is structured differently. This required code amendments to successfully load and analyze the data.
+The data set for San Francisco covers the summer 2014 period. The data provided is structured differently amd it required code amendments to successfully load and analyze the data.
 
 ![Figure 2](https://raw.githubusercontent.com/kpenza/temp/master/figures/figure2.png "Figure 2")
 
@@ -24,14 +24,14 @@ The most common crime in summer 2014 is larceny and it amounts to 32.5% of the t
 
 ## Comparing Seattle and San Francisco
 
-Direct comparison between the two subsets is not possible as the structure of the dataset are different. The category labels are different and in some cases a category is further fragmented in a city whilst the a broader term is used in the other city. This makes the category mapping process somewhat difficult. Care has been take to avoid cirsumstances in which the severity of the crime is escalated or the crime are incorrectly categorized. 
+Direct comparison between the two subsets is not possible as the structure of the dataset are different. The category labels are different and in some cases a category is further fragmented in a city whilst the a broader term is used in the other city. This makes the category mapping process somewhat difficult. Care has been taken to avoid cirsumstances in which the severity of the crime is escalated or the crime are incorrectly categorized. 
 
-After mapping the data, the crime data was plotted. For each category the number of crimes for each district is plotted adjacent of easy comparision. Figure 7 shows this data.
+After mapping the data, the crime data was plotted. For each category the number of crimes for each district is plotted adjacent of easy comparision. Figure 3 shows this data.
 
 ![Figure 3](https://raw.githubusercontent.com/kpenza/temp/master/figures/figure3.png "Figure 3")
 
 
-Figure 7 shows that the number of burglaries in seattle is almost double to that in san francisco. From figure 3, the categories of theft/bulglaries/robberies has higher incident counter than in san francisco. On the other hand, narcotics and assults are much higher in san francisco.
+Figure 3 shows that the number of burglaries in seattle is almost double to that in san francisco. From figure 3, the categories of theft/bulglaries/robberies has higher incident counter than in san francisco. On the other hand, narcotics and assults are much higher in san francisco.
 
 Using the census 2010 data, San Francisco (city) QuickFacts from the US Census Bureau. and Seattle (city) QuickFacts from the US Census Bureau. the population of San Francisco is 668,342 and that of Seattle is 852,469.
 
@@ -39,6 +39,7 @@ Using the census 2010 data, San Francisco (city) QuickFacts from the US Census B
 |--------|---|---|---|---|---|
 | San Francisco |668,342|28993|43 incidents per 1000 people|11746|17.57|
 | Seattle|852,469|32779|38.4 incidents per 1000 people|19624|23|
+
 
 
 ## References
