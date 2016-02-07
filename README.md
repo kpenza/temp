@@ -39,7 +39,6 @@ Using the census 2010 data, San Francisco (city) QuickFacts from the US Census B
 | Seattle|852,469|32779|38.4 incidents per 1000 people|19624|23|
 
 
-
 ## References
 
 Quickfacts.census.gov, (2016). San Francisco (city) QuickFacts from the US Census Bureau. [online] Available at: http://quickfacts.census.gov/qfd/states/06/0667000.html [Accessed 6 Feb. 2016].
