@@ -1,13 +1,13 @@
 # Burglary is more common in Seattle
 
-The criminal incident data of two different cities was analyzed of  Seattle, Washington and San Francisco, California. This data cover the summer 2014 period. 
+The criminal incident data of Seattle, Washington and San Francisco, California covering the summer 2014 period was analyzed.
 
 Data was processed using python and graphs plotted using matplotlib package. In order to be able to process the data it require manipulation and cleansing.
 
 
 ## Seattle
 
-The data set contained crime reports over the summer 2014 period. This data was loaded and analyzed. Some of the entries had missing data, for example, the occured date of the crime was missing, in that case the crime date is assumed to be the report date. This assumption is important, however in this case it will not change the findings/conclusions.
+The data set contained crime reports over the summer 2014 period. This data was loaded and analyzed. Some of the entries had missing data, for example, the occured date of the crime was missing, in that case the crime date is assumed to be the report date. This assumption is important, however in this case it will not influence any findings or conclusions.
 
 ![Figure 1](https://raw.githubusercontent.com/kpenza/temp/master/figures/figure1.png "Figure 1")
 
@@ -19,17 +19,15 @@ The data set for San Francisco covers the summer 2014 period. The data provided 
 
 ![Figure 2](https://raw.githubusercontent.com/kpenza/temp/master/figures/figure2.png "Figure 2")
 
-
-The most common crime in summer 2014 is larceny and it amounts to 32.5% of the total number of reports. From figure2, the second most common criminal crime is assult that amounts to 9.9% of the total reports.
+The most common crime in summer 2014 is larceny and it amounts to 32.5% of the total number of reports. From figure 2, the second most common criminal crime is assult that amounts to 9.9% of the total reports.
 
 ## Comparing Seattle and San Francisco
 
 Direct comparison between the two subsets is not possible as the structure of the dataset are different. The category labels are different and in some cases a category is further fragmented in a city whilst the a broader term is used in the other city. This makes the category mapping process somewhat difficult. Care has been taken to avoid cirsumstances in which the severity of the crime is escalated or the crime are incorrectly categorized. 
 
-After mapping the data, the crime data was plotted. For each category the number of crimes for each district is plotted adjacent of easy comparision. Figure 3 shows this data.
+The crime cateogory and the respective occurances for each city are plotted adjacent to each other, for easy comparision.
 
 ![Figure 3](https://raw.githubusercontent.com/kpenza/temp/master/figures/figure3.png "Figure 3")
-
 
 Figure 3 shows that the number of burglaries in Seattle is almost double to that in San Francisco. The trend that theft/bulglaries/robberies in Seattle have higher incident counts than in San Francisco emerges. On the other hand, narcotics and assults in are much higher in San Francisco.
 
