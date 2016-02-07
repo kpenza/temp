@@ -1,6 +1,6 @@
 # Burglary is more common in Seattle
 
-The criminal incident data of two different cities will be analyzed these are Seattle, Washington and San Francisco, California. Analysis spans over the summer 2014 period. 
+The criminal incident data of two different cities was analyzed of  Seattle, Washington and San Francisco, California. This data cover the summer 2014 period. 
 
 Data was processed using python and graphs plotted using matplotlib package. In order to be able to process the data it require manipulation and cleansing.
 
