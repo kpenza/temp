@@ -35,7 +35,7 @@ Figure 7 shows that the number of burglaries in seattle is almost double to that
 
 Using the census 2010 data, San Francisco (city) QuickFacts from the US Census Bureau. and Seattle (city) QuickFacts from the US Census Bureau. the population of San Francisco is 668,342 and that of Seattle is 852,469.
 
-| State|Population|Reports|Incidents per capita|Total theft related reports|Incidents per capita|
+| State|Population|Reports|Incidents per capita|Theft related reports|Incidents per capita|
 |--------|---|---|---|---|---|
 | San Francisco |668,342|28993|43 incidents per 1000 people|11746|17.57|
 | Seattle|852,469|32779|38.4 incidents per 1000 people|19624|23|
