@@ -15,7 +15,7 @@ Figure 1 shows the occurance of the crime and the major cateogry of the crime. T
 
 ## San Francisco
 
-The data set for San Francisco covers the summer 2014 period. The data provided is structured differently amd it required code amendments to successfully load and analyze the data.
+The data set for San Francisco covers the summer 2014 period. The data provided is structured differently and it required code amendments to successfully load and analyze the data.
 
 ![Figure 2](https://raw.githubusercontent.com/kpenza/temp/master/figures/figure2.png "Figure 2")
 
@@ -31,7 +31,7 @@ After mapping the data, the crime data was plotted. For each category the number
 ![Figure 3](https://raw.githubusercontent.com/kpenza/temp/master/figures/figure3.png "Figure 3")
 
 
-Figure 3 shows that the number of burglaries in seattle is almost double to that in san francisco. From figure 3, the categories of theft/bulglaries/robberies has higher incident counter than in san francisco. On the other hand, narcotics and assults are much higher in san francisco.
+Figure 3 shows that the number of burglaries in Seattle is almost double to that in San Francisco. The trend that theft/bulglaries/robberies in Seattle have higher incident counts than in San Francisco emerges. On the other hand, narcotics and assults in are much higher in San Francisco.
 
 Using the census 2010 data, San Francisco (city) QuickFacts from the US Census Bureau. and Seattle (city) QuickFacts from the US Census Bureau. the population of San Francisco is 668,342 and that of Seattle is 852,469.
 
